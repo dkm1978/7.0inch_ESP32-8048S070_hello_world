@@ -4,3 +4,6 @@ Before you start using it, please read the license.
 
 Used library from https://github.com/moononournation/Arduino_GFX 
 
+How it's working
+https://youtu.be/O-QXzJEMmHQ
+
