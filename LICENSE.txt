@@ -1,0 +1,18 @@
+PostcardWare License:
+
+PostcardWare means you can use the software for free (restrictions below), but to use it legally, send me a postcard, a real postcard!
+This way you will let me know that the time spent on developing this software was not wasted and that what I am doing makes sense.
+Please remember that I often use other people's libraries/source code. They share their work under their own licenses and should be acknowledged.
+
+Limitations.
+If you want to use my work in commercial products, let me know. We will then establish the conditions for such use.
+If you share your work and use my solutions, the content of this license must be distributed with it.
+The software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY, even without the implied warranty.
+
+
+Where to send a postcard:
+
+Daniel Muszyński
+Dwoska 52/13
+41-219 Sosnowiec
+Poland
