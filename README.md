@@ -5,7 +5,7 @@ Before you start using it, please read the license.
 Used library from https://github.com/moononournation/Arduino_GFX 
 
 How it's working
-[<img src="https://i.ytimg.com/vi/O-QXzJEMmHQ/maxresdefault.jpg">](https://www.youtube.com/watch?v=O-QXzJEMmHQ)
+[<img src="miniatura.png">](https://www.youtube.com/watch?v=O-QXzJEMmHQ)
 
 
 ![alt text](IMG_20230930_105150[1].jpg)
